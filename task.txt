@@ -1,0 +1,11 @@
+NYC Taxi Trip Data
+
+Dataset: NYC Yellow Taxi trips
+ (choose one month CSV ~200MB).
+
+Tasks:
+Load trips into Spark.
+Compute average fare per trip distance bracket.
+Find top 5 pickup locations.
+Plot (after aggregation) daily trip counts.
+Stretch: Predict trip fare using regression (pyspark.ml).
